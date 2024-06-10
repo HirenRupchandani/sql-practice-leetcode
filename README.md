@@ -1,5 +1,11 @@
 # sql-practice-leetcode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+- A set of SQL problems that I have solved on Leetcode!
+
+- [Solved LeetCode DSA problems repository](https://github.com/HirenRupchandani/leetcode-submissions)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Hiren_Rupchandani?theme=dark&font=Voces&ext=heatmap)
+
+- [Check Out my LeetCode Profile](https://leetcode.com/u/Hiren_Rupchandani/)
 
 
 # Database
